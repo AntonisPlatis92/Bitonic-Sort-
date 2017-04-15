@@ -1,5 +1,5 @@
 # Bitonic-Sort-
-The Bitonic Sort algorithm implemented in POSIX Threads
+The Bitonic Sort algorithm implemented in POSIX Threads library of C.
 
 PThread is a parallel execution model based on system Threads.
 
